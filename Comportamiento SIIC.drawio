@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T21:05:11.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="B58f1_NR2qv_2OvCeMus" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-23T21:05:49.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="z0W_v3-ScUanVtkhAAON" version="21.3.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2281" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -289,7 +289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qfs7emA0Vbvx_UdCnZoH" name="FlujoGrama SIIC, Prioridades">
-    <mxGraphModel dx="2199" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2337" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,7 +392,7 @@
         <mxCell id="ntv6oC78Slz-G57icsaj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-27" target="ntv6oC78Slz-G57icsaj-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ntv6oC78Slz-G57icsaj-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-58" target="ntv6oC78Slz-G57icsaj-95">
+        <mxCell id="ntv6oC78Slz-G57icsaj-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-58" target="ntv6oC78Slz-G57icsaj-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ntv6oC78Slz-G57icsaj-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-58" target="ntv6oC78Slz-G57icsaj-57">
@@ -482,7 +482,7 @@
         <mxCell id="ntv6oC78Slz-G57icsaj-83" value="Todo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ntv6oC78Slz-G57icsaj-71">
           <mxGeometry y="234" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ntv6oC78Slz-G57icsaj-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-95" target="ntv6oC78Slz-G57icsaj-7">
+        <mxCell id="ntv6oC78Slz-G57icsaj-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-95" target="ntv6oC78Slz-G57icsaj-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="170" as="targetPoint" />
           </mxGeometry>
