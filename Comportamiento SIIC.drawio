@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T17:06:47.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vJMrLsqjW_Jbu983uW_o" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T17:09:46.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7CJhY4h1SV-rezHX3KCc" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2599" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -206,6 +206,9 @@
         </mxCell>
         <mxCell id="48KponD1VQqLvq4Zh3p0-196" value="Dirección Nacional del Sistema de Bibliotecas" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="-560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U_-CNRMuI4QdtWyYmyER-0" value="DI" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
