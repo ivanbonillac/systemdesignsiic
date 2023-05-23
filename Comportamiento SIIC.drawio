@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T20:50:16.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-7dXqHcvT6qloBuHRA-F" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-23T21:03:16.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Q1Q8cuFzkBFXYGWqjy8s" version="21.3.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2281" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -289,19 +289,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qfs7emA0Vbvx_UdCnZoH" name="FlujoGrama SIIC, Prioridades">
-    <mxGraphModel dx="3198" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1725" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ntv6oC78Slz-G57icsaj-5" value="SIIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1020" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ntv6oC78Slz-G57icsaj-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-6" target="ntv6oC78Slz-G57icsaj-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="75" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ntv6oC78Slz-G57icsaj-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ntv6oC78Slz-G57icsaj-6" target="ntv6oC78Slz-G57icsaj-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ntv6oC78Slz-G57icsaj-6" value="Investigadores" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="199.91" y="150" width="140" height="30" as="geometry" />
